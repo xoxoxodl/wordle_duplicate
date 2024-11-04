@@ -1,0 +1,27 @@
+
+
+.keyboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.keybutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #d3d6da;
+    background-color: #d3d6da;
+    border-radius: 5px;
+    width: 30px;
+    height: 60px;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
